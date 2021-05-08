@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T06:10:27.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="GxaHU0ulNn3v0Z2ik8Bf" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T07:03:18.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="P4e5JLU8Bz2AdXugQDSP" version="14.6.11" type="github">
   <diagram id="6J0EkYuXrjzdtmdDQVmy" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,13 +199,13 @@
             <mxPoint x="-50" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e49Tt7tjA8vdqBDuk1N6-68" value="0 同步所有虚机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-68" value="&lt;font color=&quot;#ff0000&quot;&gt;0 同步所有虚机&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-45" y="640" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="e49Tt7tjA8vdqBDuk1N6-69" value="0 构建好所有虚机服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-69" value="&lt;font color=&quot;#ff3333&quot;&gt;0 构建好所有虚机服务&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="710" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="e49Tt7tjA8vdqBDuk1N6-70" value="0 手动建立虚机池，能够根据租户、资源类型两个维度分组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-70" value="&lt;font color=&quot;#ff0000&quot;&gt;0 手动建立虚机池，能够根据租户、资源类型两个维度分组，能够根据用户、租户、类型返回资源列表&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="447.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e49Tt7tjA8vdqBDuk1N6-71" value="" style="endArrow=classic;html=1;entryX=1.003;entryY=0.927;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
