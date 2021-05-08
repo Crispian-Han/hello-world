@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T03:17:47.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="BMYcPYjfOGlqFaGAR7kG" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T04:12:58.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Hbw0nWHqFfWnaJ2KKFrM" version="14.6.11" type="github">
   <diagram id="6J0EkYuXrjzdtmdDQVmy" name="Page-1">
-    <mxGraphModel dx="2012" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,13 @@
         <mxCell id="e49Tt7tjA8vdqBDuk1N6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="e49Tt7tjA8vdqBDuk1N6-2" target="e49Tt7tjA8vdqBDuk1N6-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e49Tt7tjA8vdqBDuk1N6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.1;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e49Tt7tjA8vdqBDuk1N6-2" target="Baso2W5MAS26ojohNf6Q-1">
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="610" as="sourcePoint" />
+            <mxPoint x="50" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.199;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e49Tt7tjA8vdqBDuk1N6-2" target="e49Tt7tjA8vdqBDuk1N6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e49Tt7tjA8vdqBDuk1N6-2" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -70,8 +76,8 @@
         <mxCell id="e49Tt7tjA8vdqBDuk1N6-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="540" y="429" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="e49Tt7tjA8vdqBDuk1N6-29" value="调用开关机接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="630" width="50" height="20" as="geometry" />
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-29" value="5 调用开机接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="640" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e49Tt7tjA8vdqBDuk1N6-30" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px&quot;&gt;租户1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="445" width="140" height="20" as="geometry" />
@@ -99,6 +105,108 @@
         </mxCell>
         <mxCell id="e49Tt7tjA8vdqBDuk1N6-39" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px&quot;&gt;索大洋&lt;br&gt;机器1&lt;br&gt;机器2&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=8;" vertex="1" parent="1">
           <mxGeometry x="760" y="496" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-40" value="2、读取本地数据库，通过用户名密码认证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="395" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="475.21000000000004" as="sourcePoint" />
+            <mxPoint x="490" y="475.21000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-43" value="3、通过认证后的token、租户ID、机器类型（大洋/sobey 获取虚机列表）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="445" width="200" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-45" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="294" as="sourcePoint" />
+            <mxPoint x="-20" y="359" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-47" value="1、选择使用大洋非编" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="293" width="55" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-50" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="293.25" as="sourcePoint" />
+            <mxPoint x="190" y="359.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-51" value="7. 监听" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="e49Tt7tjA8vdqBDuk1N6-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-52" value="" style="endArrow=classic;html=1;exitX=0.567;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.225;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="188.80999999999995" y="360.0000000000001" as="sourcePoint" />
+            <mxPoint x="188" y="293.9100000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="330.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="291" y="522.21" as="sourcePoint" />
+            <mxPoint x="491" y="522.21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-54" value="4、拿到虚机列表后，随机选择IP进行开机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320.5" y="490" width="129" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-57" value="6、返回lancher 地址" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="293" width="55" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-58" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179.31" y="616.25" as="sourcePoint" />
+            <mxPoint x="179.31" y="682.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-59" value="7. 监听" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="e49Tt7tjA8vdqBDuk1N6-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-60" value="" style="endArrow=classic;html=1;exitX=0.567;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.225;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="178.11999999999995" y="683.0000000000001" as="sourcePoint" />
+            <mxPoint x="177.31" y="616.9100000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="149.31" y="653.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-62" value="" style="endArrow=classic;html=1;exitX=0.641;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.138;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e49Tt7tjA8vdqBDuk1N6-4" target="e49Tt7tjA8vdqBDuk1N6-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449.5" y="370" as="sourcePoint" />
+            <mxPoint x="499.5" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-64" value="8、执行lancher地址，返回ICA文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="293" width="55" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-65" value="" style="endArrow=classic;html=1;exitX=0.641;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.138;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700.1800000000002" y="294.52" as="sourcePoint" />
+            <mxPoint x="699.9999999999999" y="360.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-66" value="9、执行ICA文件呼出远程桌面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="702.9" y="293.5" width="55" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="610" as="sourcePoint" />
+            <mxPoint x="-50" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-68" value="0 同步所有虚机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="640" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-69" value="0 构建好所有虚机服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="710" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="e49Tt7tjA8vdqBDuk1N6-70" value="0 手动建立虚机池，能够根据租户、资源类型两个维度分组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="447.5" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
