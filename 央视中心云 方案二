@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T06:47:26.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="-fuziEFytOVfXUFnEpKT" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T07:02:18.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="O2DtUNanqj8_jv-a_tvJ" version="14.6.11" type="github">
   <diagram id="Zh_KyvvMKnnyfLJK0H7q" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,7 +205,7 @@
             <mxPoint x="-85" y="798" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHbBSCwvjDsdVaO6Cdep-53" value="&lt;font color=&quot;#ff0000&quot;&gt;2 同步所有虚机&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mHbBSCwvjDsdVaO6Cdep-53" value="&lt;font color=&quot;#ff0000&quot;&gt;3 同步所有虚机&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80" y="758" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mHbBSCwvjDsdVaO6Cdep-54" value="&lt;font color=&quot;#ff3333&quot;&gt;2. 构建好所有虚机服务&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -247,20 +247,32 @@
         <mxCell id="mHbBSCwvjDsdVaO6Cdep-63" value="&lt;font color=&quot;#ff3333&quot;&gt;1、租户开通制作网服务&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="293.5" width="55" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="mHbBSCwvjDsdVaO6Cdep-64" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=3;entryX=-0.009;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.005;exitY=0.07;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mHbBSCwvjDsdVaO6Cdep-6" target="mHbBSCwvjDsdVaO6Cdep-7">
+        <mxCell id="mHbBSCwvjDsdVaO6Cdep-64" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=3;entryX=0.002;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.005;exitY=0.07;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-120" y="303.5" as="sourcePoint" />
-            <mxPoint x="-120" y="370" as="targetPoint" />
+            <mxPoint x="292.1500000000001" y="403.9000000000001" as="sourcePoint" />
+            <mxPoint x="490.9000000000001" y="405.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHbBSCwvjDsdVaO6Cdep-65" value="&lt;font color=&quot;#ff3333&quot;&gt;1、调用思杰接口，创建租户、用户资源池&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="350" width="160" height="40" as="geometry" />
+        <mxCell id="mHbBSCwvjDsdVaO6Cdep-65" value="&lt;font color=&quot;#ff3333&quot;&gt;4、调用思杰接口，创建租户资源池，关联用户&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="368" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mHbBSCwvjDsdVaO6Cdep-66" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-50.5" y="293.5" as="sourcePoint" />
             <mxPoint x="-50.5" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mHbBSCwvjDsdVaO6Cdep-67" value="&lt;font color=&quot;#ff3333&quot;&gt;5、配置工作站及其类型&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="293.5" width="55" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="mHbBSCwvjDsdVaO6Cdep-68" value="" style="endArrow=classic;html=1;strokeColor=#FF0000;strokeWidth=3;entryX=0.002;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.005;exitY=0.07;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="291.1500000000001" y="462.9000000000001" as="sourcePoint" />
+            <mxPoint x="489.9000000000001" y="464.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mHbBSCwvjDsdVaO6Cdep-69" value="&lt;font color=&quot;#ff3333&quot;&gt;6、调用思杰接口，创建资源类型子资源池，支持按照类型返回&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="299" y="427" width="181" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
