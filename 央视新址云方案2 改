@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T08:22:37.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="-Z-erZIIlSsOkTF9gen5" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-10T08:24:43.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="JfXULJlPKfrsBaZJ2MCw" version="14.6.11" type="github">
   <diagram id="rH6WIoYDLcITKtn_aitg" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -239,7 +239,7 @@
         <mxCell id="G07UvRWTKq1IjY7qy91V-95" value="10 对虚机进行关机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="758" width="78" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G07UvRWTKq1IjY7qy91V-96" value="&lt;font color=&quot;#ff3333&quot;&gt;0 构建好所有虚机服务，大洋非编虚机、索贝非编虚机等&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G07UvRWTKq1IjY7qy91V-96" value="&lt;font color=&quot;#ff3333&quot;&gt;2 构建好所有虚机服务，大洋非编虚机、索贝非编虚机等&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="828" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
