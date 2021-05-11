@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T06:30:55.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="VJfLDAV-Kq-aU389oblN" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T06:31:17.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="7_yi9XH8Vwe1OmGJG_Mk" version="14.6.11" type="github">
   <diagram id="bdrc6bZXx3a4oIvCLfis" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
         <mxCell id="mIwidMCoMRYEnjyJz2O--54" value="&lt;font color=&quot;#ff3333&quot;&gt;0 构建好所有虚机服务，大洋非编虚机、索贝非编虚机等&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="710" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mIwidMCoMRYEnjyJz2O--55" value="&lt;font color=&quot;#ff0000&quot;&gt;0 手动建立虚机池&lt;br&gt;需求：a. 能够根据租户、资源类型两个维度分组，能够根据用户、租户、类型返回资源列表&lt;br&gt;b. 支持虚机开关机&lt;br&gt;c. 支持按照租户、用户统计使用时长&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="mIwidMCoMRYEnjyJz2O--55" value="&lt;font color=&quot;#ff0000&quot;&gt;0 手动建立虚机池&lt;br&gt;需求：a. 能够根据租户、资源类型两个维度分组，能够根据用户、租户、类型返回资源列表&lt;br&gt;b. 支持按照租户、用户统计使用时长&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="410" width="170" height="142.5" as="geometry" />
         </mxCell>
         <mxCell id="mIwidMCoMRYEnjyJz2O--57" value="" style="endArrow=classic;html=1;exitX=0.896;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mIwidMCoMRYEnjyJz2O--8" target="mIwidMCoMRYEnjyJz2O--7" edge="1">
