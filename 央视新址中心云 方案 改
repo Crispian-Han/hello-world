@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T06:12:01.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="kG1xkMqkMte7qoi46Fm_" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T10:35:51.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="UCd2uMsi0cTSMhMvcr_N" version="14.6.11" type="github">
   <diagram id="bdrc6bZXx3a4oIvCLfis" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,8 +161,8 @@
             <mxPoint x="1050" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mIwidMCoMRYEnjyJz2O--58" value="9、用户使用关机方式关闭远程桌面，记录使用时长" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="832" y="303" width="93" height="57" as="geometry" />
+        <mxCell id="mIwidMCoMRYEnjyJz2O--58" value="9、用户使用关闭远程桌面，记录使用时长" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="832" y="300" width="93" height="57" as="geometry" />
         </mxCell>
         <mxCell id="mIwidMCoMRYEnjyJz2O--63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -228,7 +228,7 @@
           <mxGeometry width="370" height="160" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zhpfr3oGXPrhVCrhAKIn-48" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-237" y="1470" width="237" height="130" as="geometry" />
+          <mxGeometry x="-230" y="1470" width="237" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Zhpfr3oGXPrhVCrhAKIn-49" value="虚机桌面" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="Zhpfr3oGXPrhVCrhAKIn-48" vertex="1">
           <mxGeometry width="237" height="40" relative="1" as="geometry" />
@@ -239,7 +239,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zhpfr3oGXPrhVCrhAKIn-74" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="2160" width="237" height="130" as="geometry" />
+          <mxGeometry x="-222" y="2160" width="237" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Zhpfr3oGXPrhVCrhAKIn-75" value="虚机桌面" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" parent="Zhpfr3oGXPrhVCrhAKIn-74" vertex="1">
           <mxGeometry width="237" height="40" relative="1" as="geometry" />
@@ -442,9 +442,6 @@
         <mxCell id="D4fT6TGCAQicfeQ1Xa1h-4" value="资源类型" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="421" y="2710" width="69" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D4fT6TGCAQicfeQ1Xa1h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zhpfr3oGXPrhVCrhAKIn-143" target="Zhpfr3oGXPrhVCrhAKIn-143">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="D4fT6TGCAQicfeQ1Xa1h-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-110" y="293" as="sourcePoint" />
@@ -453,6 +450,15 @@
         </mxCell>
         <mxCell id="D4fT6TGCAQicfeQ1Xa1h-8" value="&lt;font color=&quot;#ff0000&quot;&gt;0 控制开关机&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-110" y="311.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D4fT6TGCAQicfeQ1Xa1h-9" value="&lt;span style=&quot;font-size: 19px&quot;&gt;选择非编&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1555" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="D4fT6TGCAQicfeQ1Xa1h-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="670" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D4fT6TGCAQicfeQ1Xa1h-11" value="&lt;font color=&quot;#ff0000&quot;&gt;所有用户有所有虚机，DUCP自己组织页面分组和交互&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="50" width="190" height="72.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
