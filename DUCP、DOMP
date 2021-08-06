@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T04:00:46.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="1YiRk-uT_sgIXZYzKMfW" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T04:02:27.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="8b7rFI_cyJpLKzc2rRKd" version="14.9.4" type="github">
   <diagram id="Eea42Mbk-vjZ10kjffsn" name="Page-1">
     <mxGraphModel dx="2249" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,7 +173,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TUpa5lBsf1vN63Dc4FJi-106" value="&lt;font color=&quot;#009900&quot;&gt;租户规格&lt;br&gt;余量判断&lt;/font&gt;" style="shape=flexArrow;endArrow=classic;html=1;endWidth=18;width=30;endSize=3.97;fillColor=#fff2cc;strokeColor=#d6b656;entryX=0.003;entryY=0.278;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.013;exitY=0.425;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="TUpa5lBsf1vN63Dc4FJi-106" value="&lt;span style=&quot;color: rgb(0 , 153 , 0)&quot;&gt;租户规格&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 153 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 153 , 0)&quot;&gt;余量判断&lt;/span&gt;" style="shape=flexArrow;endArrow=classic;html=1;endWidth=18;width=30;endSize=3.97;fillColor=#fff2cc;strokeColor=#d6b656;entryX=0.003;entryY=0.278;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.013;exitY=0.425;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="-0.0231" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-250.8800000000001" y="679" as="sourcePoint" />
             <mxPoint x="-150" y="679" as="targetPoint" />
@@ -210,6 +210,46 @@
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="530.05" y="500.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUpa5lBsf1vN63Dc4FJi-115" value="&lt;span style=&quot;color: rgb(0 , 153 , 0) ; font-size: 12px&quot;&gt;获取租户&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 153 , 0) ; font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 153 , 0) ; font-size: 12px&quot;&gt;规格总量&lt;/span&gt;" style="shape=flexArrow;endArrow=classic;html=1;endWidth=26;width=30;endSize=4.3;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry x="-0.0231" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="559" as="sourcePoint" />
+            <mxPoint x="490" y="559" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="560.05" y="559.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUpa5lBsf1vN63Dc4FJi-116" value="&lt;span style=&quot;color: rgb(0 , 153 , 0)&quot;&gt;用量上报&lt;/span&gt;" style="shape=flexArrow;endArrow=classic;html=1;endWidth=26;width=30;endSize=4.3;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry x="-0.0231" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="620" as="sourcePoint" />
+            <mxPoint x="490" y="620" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="560.05" y="620.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUpa5lBsf1vN63Dc4FJi-117" value="&lt;span style=&quot;color: rgb(0 , 153 , 0)&quot;&gt;租户规格&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 153 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 153 , 0)&quot;&gt;余量判断&lt;/span&gt;" style="shape=flexArrow;endArrow=classic;html=1;endWidth=26;width=32;endSize=4.67;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry x="-0.0231" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="684" as="sourcePoint" />
+            <mxPoint x="490" y="684" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="560.05" y="684.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUpa5lBsf1vN63Dc4FJi-118" value="&lt;font color=&quot;#009900&quot;&gt;服务授权&lt;br&gt;验证&lt;/font&gt;" style="shape=flexArrow;endArrow=classic;html=1;endWidth=18;width=30;endSize=3.97;fillColor=#fff2cc;strokeColor=#d6b656;entryX=0.869;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.025;exitY=0.908;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TUpa5lBsf1vN63Dc4FJi-92" target="TUpa5lBsf1vN63Dc4FJi-78">
+          <mxGeometry x="-0.0231" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="498" y="732.4" as="sourcePoint" />
+            <mxPoint x="540" y="799.9999999999999" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="537.01" y="732.4399999999999" />
             </Array>
           </mxGeometry>
         </mxCell>
