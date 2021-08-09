@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T02:01:03.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="EbfKECY1ckG-QYgxfM3O" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-09T07:12:47.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="75Kpu7riyLg0TLwpXufK" version="14.9.5" type="github">
   <diagram id="Eea42Mbk-vjZ10kjffsn" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -513,6 +513,39 @@
         </mxCell>
         <mxCell id="TUpa5lBsf1vN63Dc4FJi-235" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;gradientColor=#ffffff;fillColor=none;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="-80" y="1350" width="215" height="229.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KD6qERARS6J2SLPUbCwl-1" value="1. 服务编排先去掉&lt;br&gt;2. 虚机平台合成一个" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="2010" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="KD6qERARS6J2SLPUbCwl-2" value="&lt;font color=&quot;#009900&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;获取用户&lt;br&gt;模块&lt;/span&gt;&lt;/font&gt;" style="shape=flexArrow;endArrow=classic;html=1;endWidth=60;width=71;endSize=8.7;fillColor=#fff2cc;strokeColor=#d6b656;entryX=0.241;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.2208" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="350" as="sourcePoint" />
+            <mxPoint x="160" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="160.05" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KD6qERARS6J2SLPUbCwl-3" value="&lt;font color=&quot;#009900&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;获取用户&lt;br&gt;模块&lt;/span&gt;&lt;/font&gt;" style="shape=flexArrow;endArrow=classic;html=1;endWidth=60;width=71;endSize=8.7;fillColor=#fff2cc;strokeColor=#d6b656;entryX=0.241;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.2208" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="350" as="sourcePoint" />
+            <mxPoint x="320" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="320.05" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KD6qERARS6J2SLPUbCwl-4" value="&lt;font color=&quot;#009900&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;获取用户&lt;br&gt;模块&lt;/span&gt;&lt;/font&gt;" style="shape=flexArrow;endArrow=classic;html=1;endWidth=60;width=71;endSize=8.7;fillColor=#fff2cc;strokeColor=#d6b656;entryX=0.241;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.2208" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2.5" y="350" as="sourcePoint" />
+            <mxPoint x="-2.5" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-2.4499999999999886" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
