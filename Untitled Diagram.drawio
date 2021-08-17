@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-17T07:01:52.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="9oe-I2hdYmw9Ols2dxxd" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-17T07:23:07.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="xzOG4o8Ihs1srQALos1f" version="14.9.7" type="github">
   <diagram id="pr3Yv3HZAjAhcJfGRRTj" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,13 +217,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-160" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="150" y="2320" width="950" height="230" as="geometry" />
+          <mxGeometry x="125" y="3450" width="950" height="230" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-161" value="RE2支持mysql" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-160">
           <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-164" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1630" width="970" height="610" as="geometry" />
+          <mxGeometry x="160" y="1630" width="960" height="500" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-166" value="业务用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-164">
           <mxGeometry x="820" y="50" width="120" height="60" as="geometry" />
@@ -271,6 +271,32 @@
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-179" value="1. DUCP控制排班信息，只显示用户有权限使用的设备（不考虑设备冲突）&lt;br&gt;2. 不考虑临时增加排班，网管通过群组控制临时权限（增加时间有效期）&lt;br&gt;3. 非编去掉排班信息认证&lt;br&gt;4. 非编上报设备排班信息给TRM" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-164">
           <mxGeometry x="430" y="325" width="490" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-182" value="免登陆呼起PPNE、管控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-164">
+          <mxGeometry x="20" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="z8GbKeVqfSj8ncmRfNg8-164" source="z8GbKeVqfSj8ncmRfNg8-168" target="z8GbKeVqfSj8ncmRfNg8-182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-199" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2180" width="960" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-200" value="中心云和上海边缘云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-199">
+          <mxGeometry x="820" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-215" value="Vertical Container" style="swimlane;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="2180" width="960" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-216" value="中心云和云媒资对接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-215">
+          <mxGeometry x="820" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-217" value="Vertical Container" style="swimlane;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="2180" width="960" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-218" value="第三方单机工具对接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-217">
+          <mxGeometry x="820" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
