@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-17T06:14:46.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="febFfXI5kXWatl1E68gb" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-17T07:01:52.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="9oe-I2hdYmw9Ols2dxxd" version="14.9.7" type="github">
   <diagram id="pr3Yv3HZAjAhcJfGRRTj" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,13 +223,13 @@
           <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-164" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1620" width="970" height="610" as="geometry" />
+          <mxGeometry x="160" y="1630" width="970" height="610" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-166" value="业务用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-164">
           <mxGeometry x="820" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-167" value="在TRM中注册虚机，控制虚机使用权限，不控制瘦终端权限" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-164">
-          <mxGeometry x="815" y="160" width="130" height="80" as="geometry" />
+          <mxGeometry x="815" y="140" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-168" value="个人业务用户登录系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-164">
           <mxGeometry x="190" y="230" width="140" height="60" as="geometry" />
@@ -243,7 +243,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-172" value="TRM下发任务单，排班权限给栏目下所有用户？？？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-164">
-          <mxGeometry x="390" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="z8GbKeVqfSj8ncmRfNg8-164" source="z8GbKeVqfSj8ncmRfNg8-168" target="z8GbKeVqfSj8ncmRfNg8-172">
           <mxGeometry relative="1" as="geometry">
@@ -251,12 +251,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-176" value="暂不考虑" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-164">
-          <mxGeometry x="540" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="z8GbKeVqfSj8ncmRfNg8-164" source="z8GbKeVqfSj8ncmRfNg8-172" target="z8GbKeVqfSj8ncmRfNg8-176">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="z8GbKeVqfSj8ncmRfNg8-164" source="z8GbKeVqfSj8ncmRfNg8-178" target="z8GbKeVqfSj8ncmRfNg8-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-178" value="管理员手动修改排班信息？？？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-164">
+          <mxGeometry x="200" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="z8GbKeVqfSj8ncmRfNg8-164" source="z8GbKeVqfSj8ncmRfNg8-168" target="z8GbKeVqfSj8ncmRfNg8-178">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-179" value="1. DUCP控制排班信息，只显示用户有权限使用的设备（不考虑设备冲突）&lt;br&gt;2. 不考虑临时增加排班，网管通过群组控制临时权限（增加时间有效期）&lt;br&gt;3. 非编去掉排班信息认证&lt;br&gt;4. 非编上报设备排班信息给TRM" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-164">
+          <mxGeometry x="430" y="325" width="490" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
