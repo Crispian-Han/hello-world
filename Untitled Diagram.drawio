@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-17T07:53:44.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ZbUuXugEotAF1kacDuP-" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-17T08:06:33.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="uKotylITwuFxfToVHIod" version="14.9.7" type="github">
   <diagram id="pr3Yv3HZAjAhcJfGRRTj" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,6 +16,9 @@
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-3" value="栏目、频道管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="230" y="280" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8GbKeVqfSj8ncmRfNg8-7" target="z8GbKeVqfSj8ncmRfNg8-238">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-7" value="需要接收PPM的通知，创建栏目、频道，同时通知非编管控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -28,14 +31,14 @@
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-8" value="人员管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="430" y="180" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8GbKeVqfSj8ncmRfNg8-9" target="z8GbKeVqfSj8ncmRfNg8-238">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-9" value="LDAP同步" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="490" y="230" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-11" value="citrix人员同步，citrix将所有设备权限给此用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="670" y="110" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z8GbKeVqfSj8ncmRfNg8-13" value="是否要多租户化？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-14" value="人员技审、编辑等角色在非编管控授权" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="410" y="90" width="120" height="60" as="geometry" />
@@ -87,6 +90,12 @@
               <mxPoint x="710" y="469.5" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-13" value="是否要多租户化？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-30">
+          <mxGeometry x="30" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-238" value="只需要下发到中心云系统，不用同步到边缘云" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-30">
+          <mxGeometry x="380" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-32" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="150" y="730" width="980" height="790" as="geometry" />
@@ -211,6 +220,12 @@
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-157" value="边缘云CET" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-32">
           <mxGeometry x="224" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="z8GbKeVqfSj8ncmRfNg8-32" source="z8GbKeVqfSj8ncmRfNg8-241" target="z8GbKeVqfSj8ncmRfNg8-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8GbKeVqfSj8ncmRfNg8-241" value="创建任务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-32">
+          <mxGeometry x="835" y="170" width="130" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z8GbKeVqfSj8ncmRfNg8-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="1090" as="targetPoint" />
@@ -280,12 +295,6 @@
             <mxPoint x="150" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z8GbKeVqfSj8ncmRfNg8-199" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2180" width="960" height="500" as="geometry" />
-        </mxCell>
-        <mxCell id="z8GbKeVqfSj8ncmRfNg8-200" value="中心云和上海边缘云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-199">
-          <mxGeometry x="820" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-215" value="Vertical Container" style="swimlane;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="1210" y="2180" width="960" height="500" as="geometry" />
         </mxCell>
@@ -339,7 +348,7 @@
           <mxGeometry x="230" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-231" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2720" width="960" height="500" as="geometry" />
+          <mxGeometry x="160" y="2180" width="960" height="500" as="geometry" />
         </mxCell>
         <mxCell id="z8GbKeVqfSj8ncmRfNg8-232" value="中心云和阿里云对接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="z8GbKeVqfSj8ncmRfNg8-231">
           <mxGeometry x="820" y="50" width="120" height="60" as="geometry" />
