@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T12:20:54.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ZVh6BTtWm6ozsWK5L9DV" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T12:44:37.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="gepmqQ1tvxn6Ob42Rdwb" version="14.9.8" type="github">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -769,6 +769,9 @@
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-414" value="通过BSCallCS呼起本地非编" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="5Qg-7cWlRZi3ia_b7WMj-390">
           <mxGeometry x="14" y="277" width="100" height="53" as="geometry" />
         </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-418" value="通过Laucher文件呼起远程虚机" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="5Qg-7cWlRZi3ia_b7WMj-390">
+          <mxGeometry x="10" y="447" width="100" height="53" as="geometry" />
+        </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-393" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="5Qg-7cWlRZi3ia_b7WMj-369" source="5Qg-7cWlRZi3ia_b7WMj-372" target="5Qg-7cWlRZi3ia_b7WMj-388">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -780,7 +783,7 @@
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-397" value="citrix" style="swimlane;html=1;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="744" y="2923" width="120" height="837" as="geometry" />
         </mxCell>
-        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-416" value="获取LaucherUrl" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="5Qg-7cWlRZi3ia_b7WMj-397">
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-416" value="获取Laucher文件" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="5Qg-7cWlRZi3ia_b7WMj-397">
           <mxGeometry x="16" y="367" width="100" height="53" as="geometry" />
         </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-399" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;fontColor=#FF0000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="5Qg-7cWlRZi3ia_b7WMj-371">
@@ -807,6 +810,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="3317" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-419" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="5Qg-7cWlRZi3ia_b7WMj-416" target="5Qg-7cWlRZi3ia_b7WMj-418">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
