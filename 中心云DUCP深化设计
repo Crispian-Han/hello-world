@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T11:31:13.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="9huS0kwDCQrGxXEqFwP4" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T11:33:24.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="zttjT3r2-ZCaOD8xD2yX" version="14.9.8" type="github">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,8 @@
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="5Qg-7cWlRZi3ia_b7WMj-17" target="5Qg-7cWlRZi3ia_b7WMj-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="272" y="150" />
+              <mxPoint x="350" y="393" />
+              <mxPoint x="350" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -167,7 +168,9 @@
           <mxGeometry x="514" y="280" width="53" height="59" as="geometry" />
         </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-58" value="1. 免登陆呼出虚拟非编&lt;br&gt;2. 免登陆呼出物理非编" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="354.00007246280984" y="240.002727270102" as="geometry" />
+          <mxGeometry x="360.00007246280984" y="229.502727270102" as="geometry">
+            <mxPoint x="-3" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-59" value="CET总览门户，多边缘云交互" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=25;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="101" y="1100" width="340" height="40" as="geometry" />
@@ -578,6 +581,21 @@
         </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-237" value="vm" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="666" y="2411" width="29" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-254" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.lcd_monitor;labelBackgroundColor=none;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="39" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-256" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.119;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="5Qg-7cWlRZi3ia_b7WMj-255" target="5Qg-7cWlRZi3ia_b7WMj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-255" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.lcd_monitor;labelBackgroundColor=none;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="214" y="147" width="39" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-257" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.lcd_monitor;labelBackgroundColor=none;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="241" y="110" width="39" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-258" value="推流客户端&lt;br&gt;获取远程虚机IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="241.00007246280984" y="280.002727270102" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
