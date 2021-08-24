@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T11:19:59.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="f0zqfNFAp8qtbx1WtjSq" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T11:21:59.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="1ioJiN7tYP2svljUtqFw" version="14.9.8" type="github">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -460,7 +460,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-178" value="租户管理" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-178" value="租户" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-27" y="2390" width="46" height="52" as="geometry" />
         </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;strokeWidth=2;" edge="1" parent="1" source="5Qg-7cWlRZi3ia_b7WMj-179" target="5Qg-7cWlRZi3ia_b7WMj-178">
@@ -472,22 +472,22 @@
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#000000;strokeWidth=2;" edge="1" parent="1" source="5Qg-7cWlRZi3ia_b7WMj-179" target="5Qg-7cWlRZi3ia_b7WMj-182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-179" value="机构管理" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-179" value="机构" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="71" y="2286" width="46" height="52" as="geometry" />
         </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FF0000;strokeWidth=2;strokeColor=#FF0000;" edge="1" parent="1" source="5Qg-7cWlRZi3ia_b7WMj-181" target="5Qg-7cWlRZi3ia_b7WMj-182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-181" value="频道管理" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-181" value="频道" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="71" y="2390" width="46" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-182" value="栏目管理" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-182" value="栏目" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="171" y="2390" width="46" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-183" value="用户管理" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-183" value="用户" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-67" y="2505" width="46" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-184" value="群组管理" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-184" value="群组" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="19" y="2505" width="46" height="52" as="geometry" />
         </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-196" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
@@ -503,6 +503,9 @@
           <mxGeometry x="540.5000724628098" y="2200.002727270102" as="geometry">
             <mxPoint x="2" y="19" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-219" value="机构" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#2072B8;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="2286" width="46" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
