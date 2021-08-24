@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T06:58:25.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="P2bfkFymcdhdOgtT1nz5" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T07:05:11.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="0LFc6oAUYtQbicGIt5Jr" version="14.9.8" type="github">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,11 +70,17 @@
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="5Qg-7cWlRZi3ia_b7WMj-17" target="5Qg-7cWlRZi3ia_b7WMj-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.191;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="5Qg-7cWlRZi3ia_b7WMj-17" target="5Qg-7cWlRZi3ia_b7WMj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.822;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="5Qg-7cWlRZi3ia_b7WMj-17" target="5Qg-7cWlRZi3ia_b7WMj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-17" value="DUCP" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="245" y="320" width="290" height="380" as="geometry" />
         </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-19" value="citrix" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="285" y="800" width="230" height="60" as="geometry" />
+          <mxGeometry x="274" y="800" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-28" value="1. 同步人员数据&lt;br&gt;2. 同步组织结构数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="100.00007246280984" y="600.002727270102" as="geometry" />
@@ -84,6 +90,12 @@
         </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-34" value="1.租户创建通知&lt;br&gt;2.租户添加成员通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="650.000247592377" y="574.9982644730269" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-36" value="同步人员数据&lt;br&gt;citrix将所有设备权限&lt;br&gt;分配给此用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300.00007246280984" y="750.002727270102" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-38" value="同步设备数据&lt;br&gt;citrix将此设备权限&lt;br&gt;分配给所有用户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460.00007246280984" y="750.002727270102" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
