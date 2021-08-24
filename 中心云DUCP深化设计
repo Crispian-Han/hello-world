@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T09:15:26.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="LI4hv4N4qTYJUJ7jnIbA" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T09:19:17.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="7bFaQXY7FPKHGZ8NtgXf" version="14.9.8" type="github">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-38" value="同步设备数据&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="199.00007246280984" y="833.002727270102" as="geometry" />
         </mxCell>
-        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-40" value="呼起远程&lt;br&gt;桌面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-40" value="呼起远程&lt;br&gt;桌面&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;呼起虚拟应用？&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="354.00007246280984" y="833.002727270102" as="geometry">
             <mxPoint x="-16" y="-4" as="offset" />
           </mxGeometry>
@@ -375,7 +375,7 @@
           <mxGeometry x="701" y="1716" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-140" value="CET内部系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=25;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="206" y="2000" width="170" height="40" as="geometry" />
+          <mxGeometry x="199" y="2010" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
