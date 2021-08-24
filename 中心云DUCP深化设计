@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T11:41:49.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="z78A3cfWN23R3CMveQiZ" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T11:48:32.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="gThpXPVzNXTw54JtDfdT" version="14.9.8" type="github">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -600,20 +600,34 @@
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-259" value="频道栏目多租户化？" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="174" y="2497" width="79" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-260" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;labelBackgroundColor=none;fontSize=16;fontColor=#FF0000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="2980" width="360" height="780" as="geometry" />
-        </mxCell>
-        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-261" value="Lane 1" style="swimlane;html=1;startSize=20;" vertex="1" parent="5Qg-7cWlRZi3ia_b7WMj-260">
-          <mxGeometry y="20" width="120" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-262" value="Lane 2" style="swimlane;html=1;startSize=20;" vertex="1" parent="5Qg-7cWlRZi3ia_b7WMj-260">
-          <mxGeometry x="120" y="20" width="120" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-263" value="Lane 3" style="swimlane;html=1;startSize=20;" vertex="1" parent="5Qg-7cWlRZi3ia_b7WMj-260">
-          <mxGeometry x="240" y="20" width="120" height="760" as="geometry" />
-        </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-264" value="中心云CET构建制作区流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=25;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-207" y="2850" width="320" height="40" as="geometry" />
+          <mxGeometry x="-146" y="2840" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-275" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;labelBackgroundColor=none;fontSize=16;fontColor=#FF0000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="2923" width="380" height="597" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-276" value="DUCP" style="swimlane;html=1;startSize=20;fontSize=12;" vertex="1" parent="5Qg-7cWlRZi3ia_b7WMj-275">
+          <mxGeometry x="20" width="120" height="597" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-282" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fontSize=16;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="5Qg-7cWlRZi3ia_b7WMj-276">
+          <mxGeometry x="15" y="37" width="90" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-284" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fontColor=#FF0000;strokeColor=#000000;" vertex="1" parent="5Qg-7cWlRZi3ia_b7WMj-276">
+          <mxGeometry x="10" y="107" width="100" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-277" value="管控" style="swimlane;html=1;startSize=20;spacing=3;" vertex="1" parent="5Qg-7cWlRZi3ia_b7WMj-275">
+          <mxGeometry x="140" width="120" height="597" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-278" value="梧桐" style="swimlane;html=1;startSize=20;" vertex="1" parent="5Qg-7cWlRZi3ia_b7WMj-275">
+          <mxGeometry x="260" width="120" height="597" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-279" value="citrix" style="swimlane;html=1;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2923" width="120" height="597" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-283" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;fontColor=#FF0000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="5Qg-7cWlRZi3ia_b7WMj-282">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="3030" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
