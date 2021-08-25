@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T02:55:29.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="RJTuKubmYxPd-LiF2qm4" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T02:57:16.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="i7OgaYvsoSc8cN58momn" version="14.9.8" type="github">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
     <mxGraphModel dx="2249" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -963,21 +963,24 @@
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-497" value="1. 工作站重分配制作区时，重新挂载存储路径？（通过配置中心重新挂载？）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="960" y="523" width="200" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-498" value="" style="curved=1;endArrow=classic;html=1;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="210" as="sourcePoint" />
-            <mxPoint x="530" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="530" y="210" />
-              <mxPoint x="480" y="160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-500" value="用例图、活动图" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1000" y="643" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Qg-7cWlRZi3ia_b7WMj-501" value="1. 用例" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="424" y="3550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-502" value="" style="curved=1;endArrow=classic;html=1;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;entryX=0.388;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="5Qg-7cWlRZi3ia_b7WMj-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="190" as="sourcePoint" />
+            <mxPoint x="780" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="130" />
+              <mxPoint x="790" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Qg-7cWlRZi3ia_b7WMj-503" value="工作站转移制作区" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="767.0000724628098" y="110.00272727010201" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
