@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T06:29:53.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="QeKdy7uaVz_lxdC-tHl2" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T06:32:49.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="8yJOIKH91uIoioXSH2jZ" version="15.1.0" type="github">
   <diagram id="7ElxN7LbkR3aQmbp_8pe" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -263,35 +263,41 @@
           <mxGeometry x="1018.5" y="8919.5" width="427" height="361" as="geometry" />
         </mxCell>
         <mxCell id="8wMdL798vZm8gz3_DuPF-39" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;html=1;whiteSpace=wrap;fillColor=#6C767D;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="730" y="130" width="90" height="180" as="geometry" />
+          <mxGeometry x="710" y="130" width="110" height="180" as="geometry" />
         </mxCell>
         <mxCell id="8wMdL798vZm8gz3_DuPF-40" value="风险分布" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;" vertex="1" parent="8wMdL798vZm8gz3_DuPF-39">
-          <mxGeometry width="90" height="30" relative="1" as="geometry" />
+          <mxGeometry width="110.00000000000001" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8wMdL798vZm8gz3_DuPF-41" value="Button" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;" vertex="1" parent="8wMdL798vZm8gz3_DuPF-39">
-          <mxGeometry width="90" height="30" relative="1" as="geometry">
+        <mxCell id="8wMdL798vZm8gz3_DuPF-41" value="主机风险分布" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;" vertex="1" parent="8wMdL798vZm8gz3_DuPF-39">
+          <mxGeometry width="110.00000000000001" height="30" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8wMdL798vZm8gz3_DuPF-42" value="Button" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;" vertex="1" parent="8wMdL798vZm8gz3_DuPF-39">
-          <mxGeometry width="90" height="30" relative="1" as="geometry">
+        <mxCell id="8wMdL798vZm8gz3_DuPF-42" value="告警级别分布" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;" vertex="1" parent="8wMdL798vZm8gz3_DuPF-39">
+          <mxGeometry width="110.00000000000001" height="30" relative="1" as="geometry">
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8wMdL798vZm8gz3_DuPF-43" value="Button" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;" vertex="1" parent="8wMdL798vZm8gz3_DuPF-39">
-          <mxGeometry width="90" height="30" relative="1" as="geometry">
+          <mxGeometry width="110.00000000000001" height="30" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8wMdL798vZm8gz3_DuPF-44" value="Button" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;" vertex="1" parent="8wMdL798vZm8gz3_DuPF-39">
-          <mxGeometry width="90" height="30" relative="1" as="geometry">
+          <mxGeometry width="110.00000000000001" height="30" relative="1" as="geometry">
             <mxPoint y="120" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8wMdL798vZm8gz3_DuPF-45" value="Button" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;" vertex="1" parent="8wMdL798vZm8gz3_DuPF-39">
-          <mxGeometry y="1" width="90" height="30" relative="1" as="geometry">
+          <mxGeometry y="1" width="110.00000000000001" height="30" relative="1" as="geometry">
             <mxPoint y="-30" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8wMdL798vZm8gz3_DuPF-48" value="设备巡检信息" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="8wMdL798vZm8gz3_DuPF-39">
+          <mxGeometry y="100" width="110.00000000000001" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8wMdL798vZm8gz3_DuPF-47" value="风险分布" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="710" y="120" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
