@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T03:44:04.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="0cn-yB_d8dvkV4iWdWL1" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T03:45:06.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="0gy1uf8zrZ5h_3XiNwQb" version="15.1.0" type="github">
   <diagram id="7ElxN7LbkR3aQmbp_8pe" name="Page-1">
     <mxGraphModel dx="595" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,12 +183,6 @@
         </mxCell>
         <mxCell id="EHfytvnKrl_BwYB8zDi1-107" value="1.1 主机风险分布" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#F8F9FA;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" parent="1" vertex="1">
           <mxGeometry x="1387.5" y="1990" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EHfytvnKrl_BwYB8zDi1-126" value="2. 设备巡检信息" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1950" y="2310" width="145" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EHfytvnKrl_BwYB8zDi1-127" value="1.1 主机巡检" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#F8F9FA;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" parent="1" vertex="1">
-          <mxGeometry x="1880" y="2400" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8wMdL798vZm8gz3_DuPF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="871" y="2350" width="739" height="1170" as="geometry" />
