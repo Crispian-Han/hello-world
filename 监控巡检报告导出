@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T02:06:34.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="FAqylGWpYonLMrfXTyj9" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-27T02:08:07.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="I86rAyzLxiOU6TTbCJr7" version="15.3.0" type="github">
   <diagram id="7ElxN7LbkR3aQmbp_8pe" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,8 +161,8 @@
         <mxCell id="EHfytvnKrl_BwYB8zDi1-85" value="14" style="strokeColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=8;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;fillColor=#CCCC00;" parent="1" vertex="1">
           <mxGeometry x="1397.5" y="1800" width="25" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="EHfytvnKrl_BwYB8zDi1-86" value="1.2 告警风险分布" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#F8F9FA;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" parent="1" vertex="1">
-          <mxGeometry x="910" y="1650" width="140" height="20" as="geometry" />
+        <mxCell id="EHfytvnKrl_BwYB8zDi1-86" value="1.2 告警风险分布（增加链接查看详细？）" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#F8F9FA;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" parent="1" vertex="1">
+          <mxGeometry x="910" y="1650" width="320" height="10" as="geometry" />
         </mxCell>
         <mxCell id="EHfytvnKrl_BwYB8zDi1-87" value="告警总数" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" parent="1" vertex="1">
           <mxGeometry x="960" y="1830" width="300" height="40" as="geometry" />
