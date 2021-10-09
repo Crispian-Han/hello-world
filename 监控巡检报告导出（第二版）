@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T09:16:05.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="lPDb2rCUtJ7z7CJjT2MB" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-09T09:16:28.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="wwSul66GhggLfMDDKzdq" version="15.4.3" type="github">
   <diagram id="X8NNFQFEUaeLb5po1LP7" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -515,8 +515,8 @@
         <mxCell id="N5Rk5UEDuoaHK_9EpIV7-208" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="558.5" y="7180" width="739" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="N5Rk5UEDuoaHK_9EpIV7-209" value="6. 告警信息" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="575.5" y="7190" width="178.5" height="40" as="geometry" />
+        <mxCell id="N5Rk5UEDuoaHK_9EpIV7-209" value="6. 告警信息（可被链接）" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="575.5" y="7190" width="224.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
