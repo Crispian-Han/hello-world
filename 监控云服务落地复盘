@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T07:24:15.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="tgfq3ZUL6SyV_vci4ZIS" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T07:31:25.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="8vu0GmqyGghA6tmLvXQB" version="15.7.4" type="github">
   <diagram id="Xk4fdHr6gPgeFmNFFwb2" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,8 +73,8 @@
         <mxCell id="lg6AFjDJ95LKFfNydgJ0-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-150" y="480" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-30" value="&lt;br&gt;4. 监控服务-集成业务系统，获取应用关键指标数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-284.37" y="550" width="288.75" height="110" as="geometry" />
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-30" value="实现告警管理页面，能够看到系统历史告警，并可以管理告警类型忽略&lt;br&gt;监控对象性能监控新增数据曲线，查看趋势&lt;br&gt;实现网络拓扑图监控&lt;br&gt;容器化服务部署监控功能研究开发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-282.19" y="550" width="284.37" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lg6AFjDJ95LKFfNydgJ0-31" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lg6AFjDJ95LKFfNydgJ0-29" target="lg6AFjDJ95LKFfNydgJ0-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
