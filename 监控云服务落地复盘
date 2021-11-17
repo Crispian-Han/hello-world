@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T09:47:52.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ZU0kQBsP5utaqoo9Jqby" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T09:47:58.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="_we_KAkE0RqyxOppLp4g" version="15.7.4" type="github">
   <diagram id="Xk4fdHr6gPgeFmNFFwb2" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="lg6AFjDJ95LKFfNydgJ0-49" value="推广客户使用&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;" vertex="1" parent="1">
           <mxGeometry x="120.18" y="655" width="279.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-50" value="开发过程中：&lt;br&gt;1. zabbix不熟悉，在测试和开发过程中，换了三种zabbix监控配置和对接方式&lt;br&gt;2. 二季度已经可以试用，自身推广意识不强&lt;br&gt;3. 开发过程中过于注重页面功能，告警通知功能优先级更高&lt;br&gt;4. 一直在优化一些小功能（优化通知、优化告警信息、观察是否有错报、漏报）&lt;br&gt;&lt;br&gt;中期推广过程中：&lt;br&gt;1. 只能面向实施人员，无法向客户推广" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;strokeWidth=0;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-50" value="开发过程中：&lt;br&gt;1. zabbix不熟悉，在测试和开发过程中，换了三种zabbix监控配置和对接方式&lt;br&gt;2. 二季度已经可以试用，自身推广意识不强&lt;br&gt;3. 开发过程中过于注重页面功能，告警通知功能优先级更高&lt;br&gt;4. 一直在优化一些小功能（优化通知、优化告警信息、观察是否有错报、漏报）&lt;br&gt;&lt;br&gt;推广过程中：&lt;br&gt;1. 只能面向实施人员，无法向客户推广" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;strokeWidth=0;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="430" y="270" width="390" height="228" as="geometry" />
         </mxCell>
         <mxCell id="lg6AFjDJ95LKFfNydgJ0-52" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
