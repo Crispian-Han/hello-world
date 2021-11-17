@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T06:59:35.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="V0j-ZoELfd_BYWAd-WIi" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T07:11:48.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="urrFl45dJUASAnD6Rnkx" version="15.7.4" type="github">
   <diagram id="Xk4fdHr6gPgeFmNFFwb2" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,8 +73,8 @@
         <mxCell id="lg6AFjDJ95LKFfNydgJ0-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-150" y="260" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-30" value="1. 增加SNMP主机监控、增加交换机端口、风扇、电源监控&lt;br&gt;2. 监控服务集成ELK，获取应用响应数据统计和错误日志数据，可以自定义阈值，超过阈值后进行告警&lt;br&gt;3. 实现对监控对象存活数据、性能数据、告警数据的页面展现&lt;br&gt;4. 监控服务-集成业务系统，获取应用关键指标数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-278.75" y="330" width="277.5" height="110" as="geometry" />
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-30" value="1. 增加SNMP主机监控、增加交换机端口、风扇、电源监控&lt;br&gt;2. 监控系统告警功能实现，支持告警忽略和通知忽略&lt;br&gt;3. 面向增值服务部的巡检报表导出功能实现（excel）&lt;br&gt;4. 监控服务-集成业务系统，获取应用关键指标数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-284.37" y="330" width="288.75" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lg6AFjDJ95LKFfNydgJ0-31" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lg6AFjDJ95LKFfNydgJ0-29" target="lg6AFjDJ95LKFfNydgJ0-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
