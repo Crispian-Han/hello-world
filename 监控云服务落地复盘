@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T09:22:15.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Tz5S-HeEkmxRln8Mjz7J" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T09:22:37.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="XoOYok7sWCUiMN0JpPoU" version="15.7.4" type="github">
   <diagram id="Xk4fdHr6gPgeFmNFFwb2" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,16 +116,22 @@
           <mxGeometry x="235" y="460" width="50" height="10" as="geometry" />
         </mxCell>
         <mxCell id="lg6AFjDJ95LKFfNydgJ0-47" value="1. 微信公众号通知策略调整&lt;br&gt;2. html格式巡检报告生成、导出功能开发&lt;br&gt;3. 监控大数据存储和分析调研&lt;br&gt;4. 存储监控、华为 NVIDIA厂商交换机监控、主机风扇、电源、控制面板等监控&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="120.13" y="545" width="279.87" height="105" as="geometry" />
+          <mxGeometry x="120.06" y="550" width="279.87" height="105" as="geometry" />
         </mxCell>
         <mxCell id="lg6AFjDJ95LKFfNydgJ0-48" value="1. 整理监控PPT，用于项目经理向客户推广" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;" vertex="1" parent="1">
           <mxGeometry x="-79.75" y="270" width="279.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lg6AFjDJ95LKFfNydgJ0-49" value="推广客户使用&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;" vertex="1" parent="1">
-          <mxGeometry x="120.25" y="650" width="279.75" height="60" as="geometry" />
+          <mxGeometry x="120.18" y="655" width="279.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lg6AFjDJ95LKFfNydgJ0-50" value="初期开发过程中：&lt;br&gt;1. zabbix不熟悉，在测试和开发过程中，换了三种zabbix监控配置和对接方式&lt;br&gt;2.&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;strokeWidth=0;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="430" y="372" width="390" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-52" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259.55" y="500" as="sourcePoint" />
+            <mxPoint x="259.55" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
