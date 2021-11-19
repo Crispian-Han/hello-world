@@ -1,143 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T09:51:27.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="xGVerGnkgHUF2imWlANv" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T09:51:33.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="AK4DmmKzmnyOuT3ilxO1" version="15.7.4" type="github">
   <diagram id="Xk4fdHr6gPgeFmNFFwb2" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;strokeWidth=0;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="-700" y="480" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lg6AFjDJ95LKFfNydgJ0-1" target="lg6AFjDJ95LKFfNydgJ0-10">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lg6AFjDJ95LKFfNydgJ0-1" target="lg6AFjDJ95LKFfNydgJ0-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-665" y="489.58" as="sourcePoint" />
             <mxPoint x="-590" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-7" value="1. 监控服务产品设计&lt;br&gt;2. 开发方案设计、技术验证和选型（蓝鲸、prometheus、zabbix等）&lt;br&gt;3. 启动后台开发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-7" value="1. 监控服务产品设计&lt;br&gt;2. 开发方案设计、技术验证和选型（蓝鲸、prometheus、zabbix等）&lt;br&gt;3. 启动后台开发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="-790" y="329" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-8" value="&lt;font style=&quot;font-size: 12px&quot;&gt;2020 Q4&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-8" value="&lt;font style=&quot;font-size: 12px&quot;&gt;2020 Q4&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-715" y="501" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="lg6AFjDJ95LKFfNydgJ0-7">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="lg6AFjDJ95LKFfNydgJ0-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-690" y="480" as="sourcePoint" />
             <mxPoint x="-690.42" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="-521.25" y="480" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lg6AFjDJ95LKFfNydgJ0-10" target="lg6AFjDJ95LKFfNydgJ0-17">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lg6AFjDJ95LKFfNydgJ0-10" target="lg6AFjDJ95LKFfNydgJ0-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-540" y="490" as="sourcePoint" />
             <mxPoint x="-470" y="489.5799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-12" value="1. 监控服务集成Zabbix，通过获取主机、中间件、应用等性能数据和告警数据&lt;br&gt;2. 监控服务集成ELK，获取应用响应数据统计和错误日志数据，可以自定义阈值，超过阈值后进行告警&lt;br&gt;3. 实现对监控对象存活数据、性能数据、告警数据的页面展现&lt;br&gt;4. 监控服务-集成业务系统，获取应用关键指标数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-12" value="1. 监控服务集成Zabbix，通过获取主机、中间件、应用等性能数据和告警数据&lt;br&gt;2. 监控服务集成ELK，获取应用响应数据统计和错误日志数据，可以自定义阈值，超过阈值后进行告警&lt;br&gt;3. 实现对监控对象存活数据、性能数据、告警数据的页面展现&lt;br&gt;4. 监控服务-集成业务系统，获取应用关键指标数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="-650" y="550" width="277.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;2021 Q1&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;2021 Q1&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="-536.25" y="460" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-14" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="lg6AFjDJ95LKFfNydgJ0-12">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-14" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="lg6AFjDJ95LKFfNydgJ0-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-511.67" y="500" as="sourcePoint" />
             <mxPoint x="-511.25" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="-350" y="480" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-23" value="1. 增加SNMP主机监控、增加交换机端口、风扇、电源监控&lt;br&gt;2. 监控系统告警功能实现，支持告警忽略和通知忽略&lt;br&gt;3. 面向增值服务部的巡检报表导出功能实现（excel）&lt;br&gt;4. 实现监控历史数据保存和查看，支持按照单个监控对象查看历史数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-23" value="1. 增加SNMP主机监控、增加交换机端口、风扇、电源监控&lt;br&gt;2. 监控系统告警功能实现，支持告警忽略和通知忽略&lt;br&gt;3. 面向增值服务部的巡检报表导出功能实现（excel）&lt;br&gt;4. 实现监控历史数据保存和查看，支持按照单个监控对象查看历史数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="-488.25" y="300" width="296.25" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-25" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lg6AFjDJ95LKFfNydgJ0-17" target="lg6AFjDJ95LKFfNydgJ0-23">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-25" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lg6AFjDJ95LKFfNydgJ0-17" target="lg6AFjDJ95LKFfNydgJ0-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-340.08" y="470" as="sourcePoint" />
             <mxPoint x="-340.50000000000006" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-26" value="&lt;font style=&quot;font-size: 12px&quot;&gt;2021 Q2&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=0;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-26" value="&lt;font style=&quot;font-size: 12px&quot;&gt;2021 Q2&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="-365" y="501" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lg6AFjDJ95LKFfNydgJ0-29" source="lg6AFjDJ95LKFfNydgJ0-17">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lg6AFjDJ95LKFfNydgJ0-17" target="lg6AFjDJ95LKFfNydgJ0-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-201.25" y="490" as="sourcePoint" />
             <mxPoint x="-170" y="489.5799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="lg6AFjDJ95LKFfNydgJ0-29" target="lg6AFjDJ95LKFfNydgJ0-35">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="lg6AFjDJ95LKFfNydgJ0-29" target="lg6AFjDJ95LKFfNydgJ0-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="-150" y="480" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-30" value="1. 提供K8S容器平台监控和容器化服务部署监控功能&lt;br&gt;2.实现网络拓扑图监控&lt;br&gt;3. 实现告警管理页面，能够看到系统历史告警，并可以管理告警类型忽略&lt;br&gt;4. 监控对象性能监控新增数据曲线，查看趋势&lt;br&gt;5. 安装调试巡检工具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-30" value="1. 提供K8S容器平台监控和容器化服务部署监控功能&lt;br&gt;2.实现网络拓扑图监控&lt;br&gt;3. 实现告警管理页面，能够看到系统历史告警，并可以管理告警类型忽略&lt;br&gt;4. 监控对象性能监控新增数据曲线，查看趋势&lt;br&gt;5. 安装调试巡检工具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingTop=0;spacingBottom=0;" parent="1" vertex="1">
           <mxGeometry x="-290" y="550" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-31" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lg6AFjDJ95LKFfNydgJ0-29" target="lg6AFjDJ95LKFfNydgJ0-30">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-31" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lg6AFjDJ95LKFfNydgJ0-29" target="lg6AFjDJ95LKFfNydgJ0-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-40" y="510" as="sourcePoint" />
             <mxPoint x="-40" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-32" value="&lt;font style=&quot;font-size: 12px&quot;&gt;2021 Q3&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=0;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-32" value="&lt;font style=&quot;font-size: 12px&quot;&gt;2021 Q3&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="-165" y="460" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="lg6AFjDJ95LKFfNydgJ0-35" target="lg6AFjDJ95LKFfNydgJ0-43">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="lg6AFjDJ95LKFfNydgJ0-35" target="lg6AFjDJ95LKFfNydgJ0-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="50" y="480" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-37" value="&lt;font style=&quot;font-size: 12px&quot;&gt;2021 10&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=0;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-37" value="&lt;font style=&quot;font-size: 12px&quot;&gt;2021 10&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="34" y="502" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-38" value="1. html格式巡检报告生成、导出功能开发（80%）&lt;br&gt;2. 上线微信公众号通知&lt;br&gt;3. 交换机监控支持端口配置功能，忽略未使用端口监控&lt;br&gt;4. 告警信息中文转义" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-38" value="1. html格式巡检报告生成、导出功能开发（80%）&lt;br&gt;2. 上线微信公众号通知&lt;br&gt;3. 交换机监控支持端口配置功能，忽略未使用端口监控&lt;br&gt;4. 告警信息中文转义" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="-79.75" y="330" width="279.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-39" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-39" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="59.5" y="480" as="sourcePoint" />
             <mxPoint x="59.5" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-40" value="1. 系统交付部大洋演示环境部署监控观察体验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-40" value="1. 系统交付部大洋演示环境部署监控观察体验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;" parent="1" vertex="1">
           <mxGeometry x="-488.25" y="240" width="296.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-42" value="1.山东东营、朝阳电视台、西藏米林项目监控服务部署&lt;br&gt;2. 朝阳台巡检工具试用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-42" value="1.山东东营、朝阳电视台、西藏米林项目监控服务部署&lt;br&gt;2. 朝阳台巡检工具试用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;" parent="1" vertex="1">
           <mxGeometry x="-288.12" y="660" width="296.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="250" y="480" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-46" value="&lt;font style=&quot;font-size: 12px&quot;&gt;now&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=0;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-46" value="&lt;font style=&quot;font-size: 12px&quot;&gt;now and future&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="235" y="460" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-47" value="1. 微信公众号通知策略调整&lt;br&gt;2. html格式巡检报告生成、导出功能开发&lt;br&gt;3. 监控大数据存储和分析调研&lt;br&gt;4. 存储监控、华为 NVIDIA厂商交换机监控、主机风扇、电源、控制面板等监控&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-47" value="1. 微信公众号通知策略调整&lt;br&gt;2. html格式巡检报告生成、导出功能开发&lt;br&gt;3. 监控大数据存储和分析调研&lt;br&gt;4. 存储监控、华为 NVIDIA厂商交换机监控、主机风扇、电源、控制面板等监控&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
           <mxGeometry x="120.06" y="550" width="279.87" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-48" value="1. 整理监控PPT，用于项目经理向客户推广" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-48" value="1. 整理监控PPT，用于项目经理向客户推广" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;" parent="1" vertex="1">
           <mxGeometry x="-79.75" y="270" width="279.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-49" value="推广客户使用&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-49" value="推广客户使用&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=0;fillColor=#b0e3e6;strokeColor=#0e8088;align=left;" parent="1" vertex="1">
           <mxGeometry x="120.18" y="655" width="279.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-50" value="开发过程中：&lt;br&gt;1. zabbix不熟悉，在测试和开发过程中，换了三种zabbix监控配置和对接方式&lt;br&gt;2. 二季度已经可以试用，自身推广意识不强&lt;br&gt;3. 开发过程中过于注重页面功能，告警通知功能优先级更高&lt;br&gt;4. 一直在优化一些小功能（优化通知、优化告警信息、观察是否有错报、漏报）&lt;br&gt;&lt;br&gt;推广过程中：&lt;br&gt;1. 只能面向项目经理实施人员，无法向客户推广&lt;br&gt;2. 实施不是很关注" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;strokeWidth=0;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="430" y="270" width="390" height="228" as="geometry" />
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-50" value="开发过程中：&lt;br&gt;1. zabbix不熟悉，在测试和开发过程中，换了三种zabbix监控配置和对接方式&lt;br&gt;2. 二季度已经可以试用，自身推广意识不强&lt;br&gt;3. 开发过程中过于注重页面功能，告警通知功能优先级更高&lt;br&gt;4. 一直在优化一些小功能（优化通知、优化告警信息、观察是否有错报、漏报）&lt;br&gt;&lt;br&gt;推广过程中：&lt;br&gt;1. 只能面向项目经理实施人员，无法向客户推广&lt;br&gt;2. 实施不是很关注" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;strokeWidth=0;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="414" y="255" width="390" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-52" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-52" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="259.55" y="500" as="sourcePoint" />
             <mxPoint x="259.55" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-54" value="目前：需要用户实际体验试用" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;strokeWidth=0;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="430" y="518" width="390" height="70" as="geometry" />
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-54" value="需要用户实际体验试用" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;strokeWidth=0;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="414" y="485" width="390" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lg6AFjDJ95LKFfNydgJ0-56" value="自我信息一直希望做完善后提供给客户，比较纠结" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;strokeWidth=0;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="lg6AFjDJ95LKFfNydgJ0-56" value="自我信息一直希望做完善后提供给客户，比较纠结" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;strokeWidth=0;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="-250" y="1050" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-w-XrydVhkqZFBHRFdG6-1" value="1. 成本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-w-XrydVhkqZFBHRFdG6-2" value="1. 11.26 项目清单&lt;br&gt;2. 12月第一周售前培训，需提供PPT&lt;br&gt;3. 周五早上九点 - 目标" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="585" width="210" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
