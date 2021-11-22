@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T10:28:57.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="X-Ltsh3ZyXbZyEg8Sf1w" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T10:43:57.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="dmM6Sg4mfdOGVyd9culf" version="15.8.2" type="github">
   <diagram id="ZHS7RZp8CjNcBOBmULBN" name="Page-1">
     <mxGraphModel dx="1570" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-3" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="64" y="200" width="666" height="560" as="geometry" />
+          <mxGeometry x="87" y="118" width="666" height="560" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-4" value="告警通知策略配置" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
           <mxGeometry x="46" y="54" width="170" height="30" as="geometry" />
@@ -112,6 +112,21 @@
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-45" value="取消" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
           <mxGeometry x="296" y="490" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-46" value="监控通知配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="267" y="40" width="253" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-47" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="30" y="898" width="780" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bxFIBeCpuPh8ohzT8nmy-78" target="bxFIBeCpuPh8ohzT8nmy-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-78" value="中心云排班信息调整" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="830" width="253" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-81" value="参考超五拍摄图片" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679.5" y="825" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
