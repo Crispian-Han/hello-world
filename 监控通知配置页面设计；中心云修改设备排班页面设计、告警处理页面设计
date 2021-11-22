@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T10:44:02.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="IMymLgItkY5-0XRlkaIJ" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T10:46:40.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="vluVwv2W5BC39_2527bM" version="15.8.2" type="github">
   <diagram id="ZHS7RZp8CjNcBOBmULBN" name="Page-1">
     <mxGraphModel dx="1570" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-3" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="87" y="118" width="666" height="560" as="geometry" />
+          <mxGeometry x="87" y="118" width="673" height="832" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-4" value="告警通知策略配置" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
           <mxGeometry x="46" y="54" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-7" value="" style="fillColor=#36B37E;strokeColor=none;rounded=1;arcSize=50;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="195" y="112" width="30" height="16" as="geometry" />
+          <mxGeometry x="195" y="139" width="30" height="16" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-8" value="" style="shape=ellipse;strokeColor=none;fillColor=#ffffff;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-7">
           <mxGeometry x="1" y="0.5" width="12" height="12" relative="1" as="geometry">
@@ -24,28 +24,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-11" value="是否重复告警：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="51" y="105" width="91" height="35" as="geometry" />
+          <mxGeometry x="51" y="132" width="91" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-12" value="通知次数：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="43" y="140" width="84" height="35" as="geometry" />
+          <mxGeometry x="43" y="167" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-14" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="132" y="140" width="104" height="30" as="geometry" />
+          <mxGeometry x="132" y="167" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-15" value="间隔时间：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="336" y="137.5" width="84" height="35" as="geometry" />
+          <mxGeometry x="336" y="164.5" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-16" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="426" y="137.5" width="104" height="30" as="geometry" />
+          <mxGeometry x="426" y="164.5" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-17" value="小时" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="516" y="135" width="84" height="35" as="geometry" />
+          <mxGeometry x="516" y="162" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-18" value="告警通知方式配置" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="46" y="200" width="170" height="30" as="geometry" />
+          <mxGeometry x="43" y="482" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-19" value="" style="fillColor=#36B37E;strokeColor=none;rounded=1;arcSize=50;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="195" y="247" width="30" height="16" as="geometry" />
+          <mxGeometry x="192" y="529" width="30" height="16" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-20" value="" style="shape=ellipse;strokeColor=none;fillColor=#ffffff;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-19">
           <mxGeometry x="1" y="0.5" width="12" height="12" relative="1" as="geometry">
@@ -58,10 +58,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-22" value="是否公众号告警：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="51" y="240" width="99" height="35" as="geometry" />
+          <mxGeometry x="48" y="522" width="99" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-28" value="" style="fillColor=#36B37E;strokeColor=none;rounded=1;arcSize=50;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="195" y="293" width="30" height="16" as="geometry" />
+          <mxGeometry x="192" y="575" width="30" height="16" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-29" value="" style="shape=ellipse;strokeColor=none;fillColor=#ffffff;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-28">
           <mxGeometry x="1" y="0.5" width="12" height="12" relative="1" as="geometry">
@@ -74,28 +74,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-31" value="是否邮箱告警：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="47" y="286" width="99" height="35" as="geometry" />
+          <mxGeometry x="44" y="568" width="99" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-32" value="发件人邮箱：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="66" y="328.5" width="84" height="35" as="geometry" />
+          <mxGeometry x="63" y="610.5" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-36" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="166" y="331" width="104" height="30" as="geometry" />
+          <mxGeometry x="163" y="613" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-37" value="收件人邮箱：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="66" y="373.5" width="84" height="35" as="geometry" />
+          <mxGeometry x="63" y="655.5" width="84" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-38" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="166" y="376" width="104" height="30" as="geometry" />
+          <mxGeometry x="163" y="658" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-39" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="256" y="378.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="253" y="660.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-40" value="是否钉钉告警：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="46" y="420" width="99" height="35" as="geometry" />
+          <mxGeometry x="43" y="702" width="99" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-41" value="" style="fillColor=#36B37E;strokeColor=none;rounded=1;arcSize=50;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="195" y="429.5" width="30" height="16" as="geometry" />
+          <mxGeometry x="192" y="711.5" width="30" height="16" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-42" value="" style="shape=ellipse;strokeColor=none;fillColor=#ffffff;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-41">
           <mxGeometry x="1" y="0.5" width="12" height="12" relative="1" as="geometry">
@@ -108,25 +108,96 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-44" value="保存" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="166" y="490" width="80" height="40" as="geometry" />
+          <mxGeometry x="163" y="772" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-45" value="取消" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
-          <mxGeometry x="296" y="490" width="84" height="40" as="geometry" />
+          <mxGeometry x="293" y="772" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-83" value="紧急" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="23" y="104" width="85" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-84" value="" style="fillColor=#36B37E;strokeColor=none;rounded=1;arcSize=50;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="193" y="259" width="30" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-85" value="" style="shape=ellipse;strokeColor=none;fillColor=#ffffff;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-84">
+          <mxGeometry x="1" y="0.5" width="12" height="12" relative="1" as="geometry">
+            <mxPoint x="-14" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-86" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.check;strokeColor=#ffffff;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-84">
+          <mxGeometry y="0.5" width="6" height="5" relative="1" as="geometry">
+            <mxPoint x="4" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-87" value="是否重复告警：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="49" y="252" width="91" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-88" value="通知次数：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="41" y="287" width="84" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-89" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="130" y="287" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-90" value="间隔时间：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="334" y="284.5" width="84" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-91" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="424" y="284.5" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-92" value="小时" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="514" y="282" width="84" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-93" value="重要" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="21" y="222" width="85" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-94" value="" style="fillColor=#36B37E;strokeColor=none;rounded=1;arcSize=50;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="195" y="379" width="30" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-95" value="" style="shape=ellipse;strokeColor=none;fillColor=#ffffff;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-94">
+          <mxGeometry x="1" y="0.5" width="12" height="12" relative="1" as="geometry">
+            <mxPoint x="-14" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-96" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.check;strokeColor=#ffffff;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-94">
+          <mxGeometry y="0.5" width="6" height="5" relative="1" as="geometry">
+            <mxPoint x="4" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-97" value="是否重复告警：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="51" y="372" width="91" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-98" value="通知次数：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="43" y="407" width="84" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-99" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="132" y="407" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-100" value="间隔时间：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="336" y="404.5" width="84" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-101" value="" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="426" y="404.5" width="104" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-102" value="小时" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="516" y="402" width="84" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFIBeCpuPh8ohzT8nmy-103" value="一般" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bxFIBeCpuPh8ohzT8nmy-3">
+          <mxGeometry x="23" y="344" width="85" height="28" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-46" value="监控通知配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="267" y="40" width="253" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-47" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="30" y="898" width="780" height="142" as="geometry" />
+          <mxGeometry x="24" y="1113" width="780" height="142" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bxFIBeCpuPh8ohzT8nmy-78" target="bxFIBeCpuPh8ohzT8nmy-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-78" value="中心云排班信息调整" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="830" width="253" height="50" as="geometry" />
+          <mxGeometry x="274" y="1045" width="253" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bxFIBeCpuPh8ohzT8nmy-81" value="参考超五拍摄图片" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="679.5" y="825" width="120" height="60" as="geometry" />
+          <mxGeometry x="673.5" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
