@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T08:35:16.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="IFb2mgmLG6EtFl1tVM83" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T08:39:58.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="nBWcfPLQAj_FV4Qvbhtq" version="15.9.6" type="github">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
-    <mxGraphModel dx="2012" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4382" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1281,10 +1281,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-166" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;labelBackgroundColor=none;fontSize=16;fontColor=#FF0000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="5080" width="260" height="690" as="geometry" />
+          <mxGeometry x="-710" y="5080" width="260" height="860" as="geometry" />
         </mxCell>
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-167" value="边缘云DUCP" style="swimlane;html=1;startSize=20;fontSize=12;" vertex="1" parent="EgmeBy6wtKpkkO5ff-Vr-166">
-          <mxGeometry x="20" width="120" height="690" as="geometry" />
+          <mxGeometry x="20" width="120" height="860" as="geometry" />
         </mxCell>
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-168" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fontSize=12;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="EgmeBy6wtKpkkO5ff-Vr-167">
           <mxGeometry x="22.5" y="37" width="75" height="43" as="geometry" />
@@ -1304,14 +1304,17 @@
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-202" value="手动点击按钮，上传边缘云节点信息到cet中心" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=#36393d;fillColor=#ffff88;" vertex="1" parent="EgmeBy6wtKpkkO5ff-Vr-167">
           <mxGeometry x="10" y="280" width="100" height="53" as="geometry" />
         </mxCell>
+        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-215" value="接收用户同步信息，并标识为LDAP用户" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=#36393d;fillColor=#ffff88;" vertex="1" parent="EgmeBy6wtKpkkO5ff-Vr-167">
+          <mxGeometry x="10" y="550" width="100" height="53" as="geometry" />
+        </mxCell>
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-172" value="CET中心DUCP" style="swimlane;html=1;startSize=20;spacing=3;" vertex="1" parent="EgmeBy6wtKpkkO5ff-Vr-166">
-          <mxGeometry x="140" width="120" height="690" as="geometry" />
+          <mxGeometry x="140" width="120" height="860" as="geometry" />
         </mxCell>
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-203" value="创建机构" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="EgmeBy6wtKpkkO5ff-Vr-172">
           <mxGeometry x="10" y="280" width="100" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-207" value="自动初始化大洋资源库和索贝资源库多租户服务实例" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=#36393d;fillColor=#ffff88;" vertex="1" parent="EgmeBy6wtKpkkO5ff-Vr-172">
-          <mxGeometry x="10" y="370" width="100" height="53" as="geometry" />
+        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-207" value="自动初始化大洋资源库、索贝资源库多租户服务实例、边缘云DUCP服务实例" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=#36393d;fillColor=#ffff88;" vertex="1" parent="EgmeBy6wtKpkkO5ff-Vr-172">
+          <mxGeometry x="10" y="360" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-209" value="手动填写边缘云节点大洋和索贝的资源库地址" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=#36393d;fillColor=#ffff88;" vertex="1" parent="EgmeBy6wtKpkkO5ff-Vr-172">
           <mxGeometry x="10" y="460" width="100" height="53" as="geometry" />
@@ -1320,6 +1323,9 @@
           <mxGeometry x="10" y="550" width="100" height="53" as="geometry" />
         </mxCell>
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=2;" edge="1" parent="EgmeBy6wtKpkkO5ff-Vr-166" source="EgmeBy6wtKpkkO5ff-Vr-202" target="EgmeBy6wtKpkkO5ff-Vr-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=2;" edge="1" parent="EgmeBy6wtKpkkO5ff-Vr-166" source="EgmeBy6wtKpkkO5ff-Vr-210" target="EgmeBy6wtKpkkO5ff-Vr-215">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-188" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;fontColor=#FF0000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="EgmeBy6wtKpkkO5ff-Vr-168">
@@ -1339,6 +1345,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-510.33333333333326" y="5540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-213" value="如果是全局同步：将所有的组织结构和用户发往边缘云，后续自动同步&lt;br&gt;如果是部分同步：提供页面手动选择用户同步到边缘云，后续不自动同步" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="5600" width="140" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=2;shape=link;" edge="1" parent="1" source="EgmeBy6wtKpkkO5ff-Vr-210" target="EgmeBy6wtKpkkO5ff-Vr-213">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
