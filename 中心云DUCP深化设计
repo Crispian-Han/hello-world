@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T07:17:21.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="cFxsEOSaqMVJOkSYZasG" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T07:17:30.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="d0r8PcmLLS4_3TAKPCMf" version="15.9.6" type="github">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
     <mxGraphModel dx="4024" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1209,7 +1209,7 @@
           <mxGeometry x="747" y="3830" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-112" value="1. 设备预约信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1060.0000724628098" y="4100.002727270102" as="geometry">
+          <mxGeometry x="830.0000724628098" y="3930.002727270102" as="geometry">
             <mxPoint x="5" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
