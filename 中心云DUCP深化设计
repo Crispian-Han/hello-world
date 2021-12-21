@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T09:57:09.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="CGj2TDXpVe65c71vjZq4" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T10:02:10.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bklfoXQst1wcSMQ_cE1Q" version="15.9.6" type="github">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1425,7 +1425,7 @@
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-258" value="统一资源库服务ID：KernalContentLibrary&lt;br&gt;边缘云节点大洋资源库：DYContentLibrary&lt;br&gt;边缘云节点索贝资源库：SoBContentLibrary&lt;br&gt;&lt;br&gt;边缘云节点CET：EdgeCloudCET" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFB366;" vertex="1" parent="1">
           <mxGeometry x="-215" y="5090" width="286" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-259" value="统一资源库服务ID：KernalContentLibrary&lt;br&gt;边缘云节点大洋资源库：DYContentLibrary&lt;br&gt;边缘云节点索贝资源库：SoBContentLibrary&lt;br&gt;&lt;br&gt;边缘云节点CET：EdgeCloudCET" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFB366;" vertex="1" parent="1">
+        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-259" value="接口key secret加密校验&lt;br&gt;cet中心：需要在自身系统中校验，并且在整个系统各个边缘云节点中校验--缓存策略&lt;br&gt;cet边缘云节点：需要在自身校验，并且在cet中心中校验--缓存策略" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFB366;" vertex="1" parent="1">
           <mxGeometry x="-214" y="5240" width="286" height="110" as="geometry" />
         </mxCell>
       </root>
