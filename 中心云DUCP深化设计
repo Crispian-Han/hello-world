@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T12:09:12.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YjriGP6oVgcQdm17jncK" version="16.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-28T07:08:09.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_yCAIonCxRG-PkXoHudr" version="16.1.0" type="github" pages="2">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
-    <mxGraphModel dx="3842" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3316" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1045,13 +1045,13 @@
             <mxPoint x="41.88" y="4728.485507246377" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-56" value="1. 流程模板、流程信息&lt;br style=&quot;font-size: 12px&quot;&gt;2. web单点登录&lt;br style=&quot;font-size: 12px&quot;&gt;3. 设备统一登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-79.98992753719016" y="4720.002727270102" as="geometry">
+        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-56" value="1. 流程模板、流程信息&lt;br style=&quot;font-size: 12px&quot;&gt;2. web单点登录&lt;br style=&quot;font-size: 12px&quot;&gt;3. 设备统一登录&lt;br&gt;4.到CET进行接口权限验证？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-87.11992753719015" y="4730.002727270102" as="geometry">
             <mxPoint x="5" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-57" value="1. 边缘云节点、制作区信息&lt;br style=&quot;font-size: 12px&quot;&gt;2. 用户、栏目、频道信息&lt;br style=&quot;font-size: 12px&quot;&gt;3. 设备信息同步&lt;br&gt;4. 设备排班信息&lt;br&gt;5. TRM、PPM任务下发（盛东）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="194.01007246280983" y="4759.002727270102" as="geometry">
+        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-57" value="1. 边缘云节点、制作区信息&lt;br style=&quot;font-size: 12px&quot;&gt;2. 用户、栏目、频道信息&lt;br style=&quot;font-size: 12px&quot;&gt;3. 设备信息同步&lt;br&gt;4. 设备排班信息&lt;br&gt;5. TRM、PPM任务下发（盛东）&lt;br&gt;6. 中心cet ducp、统一资源库服务实例地址" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="197.00007246280984" y="4741.002727270102" as="geometry">
             <mxPoint x="5" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1079,7 +1079,7 @@
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-63" value="CET总览门户" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-79.5" y="4270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-64" value="统一资源库" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-64" value="CET统一资源库" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="98.5" y="4270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EgmeBy6wtKpkkO5ff-Vr-65" target="EgmeBy6wtKpkkO5ff-Vr-62" edge="1">
@@ -1109,7 +1109,7 @@
             <mxPoint x="5" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-81" value="1. 边缘云节点信息&lt;br&gt;2. 制作区信息&lt;br&gt;5. 租户用户关系信息&lt;br&gt;7. 实例信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-81" value="1. 边缘云节点信息&lt;br&gt;2. 制作区信息&lt;br&gt;5. 租户用户关系信息&lt;br&gt;7. 实例信息&lt;br&gt;&lt;br&gt;单点登录访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="0.00007246280983963516" y="4490.002727270102" as="geometry">
             <mxPoint x="5" y="10" as="offset" />
           </mxGeometry>
@@ -1191,8 +1191,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-106" value="1. 边缘云节点信息&lt;br&gt;2. 制作区信息（所有？）&lt;br&gt;5. 租户用户关系信息&lt;br&gt;7.实例信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="381.75007246280984" y="4190.002727270102" as="geometry">
+        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-106" value="1. 边缘云节点信息&lt;br&gt;2. 制作区信息（所有？）&lt;br&gt;5. 租户用户关系信息&lt;br&gt;7.实例信息&lt;br&gt;&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="381.75007246280984" y="4185.002727270102" as="geometry">
             <mxPoint x="5" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1201,7 +1201,7 @@
             <mxPoint x="5" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-108" value="1. ldap用户信息（可能不是所有）&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;2. ladp组织结构信息？&lt;/font&gt;&lt;br&gt;3. 实例信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+        <mxCell id="EgmeBy6wtKpkkO5ff-Vr-108" value="1. ldap用户信息（可能不是所有）&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;2. ladp组织结构信息&lt;/font&gt;&lt;br&gt;3. 实例信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="381.75007246280984" y="4322.002727270102" as="geometry">
             <mxPoint x="5" y="10" as="offset" />
           </mxGeometry>
@@ -1777,28 +1777,40 @@
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-438" value="计量计费" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;strokeColor=#36393d;fillColor=#ffff88;" parent="1" vertex="1">
           <mxGeometry x="424" y="6610" width="100" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="ji2jWbhH3hvDHdHq-rEa-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(102 , 102 , 255)&quot;&gt;cet中心&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ji2jWbhH3hvDHdHq-rEa-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(102 , 102 , 255)&quot;&gt;cet中心&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1140.0000724628098" y="4410.002727270102" as="geometry">
             <mxPoint x="-1082" y="-358" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ji2jWbhH3hvDHdHq-rEa-2" value="&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(102 , 102 , 255)&quot;&gt;北京边缘云&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ji2jWbhH3hvDHdHq-rEa-2" value="&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(102 , 102 , 255)&quot;&gt;北京边缘云&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1130.0000724628098" y="4960.002727270102" as="geometry">
             <mxPoint x="-1082" y="-358" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ji2jWbhH3hvDHdHq-rEa-3" value="&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(102 , 102 , 255)&quot;&gt;杭州边缘云&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ji2jWbhH3hvDHdHq-rEa-3" value="&lt;font color=&quot;#ffffff&quot; style=&quot;background-color: rgb(102 , 102 , 255)&quot;&gt;杭州边缘云&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1840.0000724628098" y="4420.002727270102" as="geometry">
             <mxPoint x="-1082" y="-358" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Wg342b1RYVO4Yrre0tq-1" value="1. 边缘云节点信息&lt;br&gt;2. 制作区信息&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;3. 栏目信息（可能不是所有）&lt;br&gt;4. 自建用户信息&lt;/font&gt;&lt;br&gt;5. 租户用户关系信息&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;6.栏目用户关系信息&lt;/font&gt;&lt;br&gt;7.实例信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="8Wg342b1RYVO4Yrre0tq-1" value="1. 边缘云节点信息&lt;br&gt;2. 制作区信息&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;3. 栏目信息（可能不是所有）&lt;br&gt;4. 自建用户信息&lt;/font&gt;&lt;br&gt;5. 租户用户关系信息&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;6.栏目用户关系信息&lt;/font&gt;&lt;br&gt;7.实例信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="680.5000724628098" y="4580.002727270102" as="geometry">
             <mxPoint x="5" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Wg342b1RYVO4Yrre0tq-2" value="资源库控制上传素材时进行群组上传" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8Wg342b1RYVO4Yrre0tq-2" value="资源库控制上传素材时进行群组上传" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="77" y="4480" width="73" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5wrxslCHWqmaT49ZsFn4-1" value="监控信息总览" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="12" y="4350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wrxslCHWqmaT49ZsFn4-2" value="1. 网络架构&lt;br&gt;2. 应用架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-592" y="4535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wrxslCHWqmaT49ZsFn4-3" value="1. 网络架构&lt;br&gt;2.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-592" y="4670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wrxslCHWqmaT49ZsFn4-10" value="1.新边缘云节点注册后配置工作&lt;br&gt;2. 新制作区注册后配置工作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="4730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
