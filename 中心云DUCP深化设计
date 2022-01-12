@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T09:25:03.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="71GVEmkqv5hZTkgefMjv" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-12T09:46:31.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="LFf_8yASjOJ99UmMrJVT" version="16.2.4" type="github" pages="2">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
     <mxGraphModel dx="3685" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1820,8 +1820,55 @@
         <mxCell id="Chzh8aD_ZkcVm5iriV3C-2" value="CET 中心注册数据&lt;br&gt;&lt;br&gt;边缘云节点大洋资源库：DYContentLibrary&lt;br&gt;边缘云节点索贝资源库：SoBContentLibrary&lt;br&gt;边缘云节点CET：EdgeCloudCET&lt;br&gt;&lt;br&gt;机构、租户（制作区）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFB366;" vertex="1" parent="1">
           <mxGeometry x="665" y="5290" width="296" height="260" as="geometry" />
         </mxCell>
+        <mxCell id="Chzh8aD_ZkcVm5iriV3C-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.009;exitY=0.345;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Chzh8aD_ZkcVm5iriV3C-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="5380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Chzh8aD_ZkcVm5iriV3C-5" value="边缘云节点注册数据&lt;br&gt;&lt;br&gt;统一资源库服务ID：KernalContentLibrary&lt;br&gt;CET中心地址：KernalCET&lt;br&gt;&lt;br&gt;梧桐资源库：WUTong&lt;br&gt;索贝资源库：SoBContentLibrary&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFB366;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="5290" width="296" height="260" as="geometry" />
+          <mxGeometry x="1292" y="5290" width="296" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Chzh8aD_ZkcVm5iriV3C-7" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="5710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Chzh8aD_ZkcVm5iriV3C-8" value="2. 发送租户开通服务通知&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="5340" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Chzh8aD_ZkcVm5iriV3C-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1295.5" y="5329.999999999999" as="sourcePoint" />
+            <mxPoint x="964.5" y="5329.999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Chzh8aD_ZkcVm5iriV3C-10" value="1. 创建租户时候通知，要反向获取ducp地址" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="5280" width="260" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Chzh8aD_ZkcVm5iriV3C-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="5430" as="sourcePoint" />
+            <mxPoint x="1290" y="5430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Chzh8aD_ZkcVm5iriV3C-15" value="3.&lt;span&gt;获取实例ID和地址等， CET中心维护实例&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="5410" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Chzh8aD_ZkcVm5iriV3C-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1295.5" y="5479.999999999999" as="sourcePoint" />
+            <mxPoint x="964.5" y="5479.999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Chzh8aD_ZkcVm5iriV3C-20" value="4. 编辑实例时候通知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="5440" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Chzh8aD_ZkcVm5iriV3C-21" value="5.&lt;span&gt;获取实例ID和地址等， CET中心维护实例&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="5500" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Chzh8aD_ZkcVm5iriV3C-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="5529.999999999999" as="sourcePoint" />
+            <mxPoint x="1290" y="5529.999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
