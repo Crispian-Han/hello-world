@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T08:36:16.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="lVE2dY2gWor4ZMczhsQo" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-12T09:25:03.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="71GVEmkqv5hZTkgefMjv" version="16.2.4" type="github" pages="2">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
     <mxGraphModel dx="3685" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1567,6 +1567,11 @@
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=2;" parent="1" source="EgmeBy6wtKpkkO5ff-Vr-341" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="213.5" y="6211.999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="154" y="5986" />
+              <mxPoint x="154" y="6150" />
+              <mxPoint x="214" y="6150" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EgmeBy6wtKpkkO5ff-Vr-353" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=2;" parent="1" source="EgmeBy6wtKpkkO5ff-Vr-343" target="EgmeBy6wtKpkkO5ff-Vr-350" edge="1">
@@ -1812,8 +1817,11 @@
         <mxCell id="5wrxslCHWqmaT49ZsFn4-10" value="1.新边缘云节点注册后配置工作&lt;br&gt;2. 新制作区注册后配置工作" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="4730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Chzh8aD_ZkcVm5iriV3C-2" value="CET 中心注册数据&lt;br&gt;&lt;br&gt;边缘云节点大洋资源库：DYContentLibrary&lt;br&gt;边缘云节点索贝资源库：SoBContentLibrary&lt;br&gt;边缘云节点CET：EdgeCloudCET" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFB366;" vertex="1" parent="1">
+        <mxCell id="Chzh8aD_ZkcVm5iriV3C-2" value="CET 中心注册数据&lt;br&gt;&lt;br&gt;边缘云节点大洋资源库：DYContentLibrary&lt;br&gt;边缘云节点索贝资源库：SoBContentLibrary&lt;br&gt;边缘云节点CET：EdgeCloudCET&lt;br&gt;&lt;br&gt;机构、租户（制作区）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFB366;" vertex="1" parent="1">
           <mxGeometry x="665" y="5290" width="296" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Chzh8aD_ZkcVm5iriV3C-5" value="边缘云节点注册数据&lt;br&gt;&lt;br&gt;统一资源库服务ID：KernalContentLibrary&lt;br&gt;CET中心地址：KernalCET&lt;br&gt;&lt;br&gt;梧桐资源库：WUTong&lt;br&gt;索贝资源库：SoBContentLibrary&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="5290" width="296" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
