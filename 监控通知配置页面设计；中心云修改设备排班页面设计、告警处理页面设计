@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T01:25:49.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="-kXTflfuABjSlamuXiDE" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T01:34:42.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="J_k9FBmcHksc0x44v6x7" version="16.2.6" type="github">
   <diagram id="ZHS7RZp8CjNcBOBmULBN" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1003,7 +1003,7 @@
           <mxGeometry x="1325.15" y="4184" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6TqoMr2jhlx2vnppKLqE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487.79" y="4560" width="450" height="430" as="geometry" />
+          <mxGeometry x="480" y="4560" width="457.79" height="430" as="geometry" />
         </mxCell>
         <mxCell id="6TqoMr2jhlx2vnppKLqE-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="937.79" y="4560" width="460" height="430" as="geometry" />
@@ -1031,6 +1031,81 @@
         </mxCell>
         <mxCell id="6TqoMr2jhlx2vnppKLqE-12" value="上海边缘云&lt;br&gt;设备数量：200" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1210.1900000000003" y="4847.5" width="85.31" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482.79" y="4610" width="452.21" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482.79" y="4710" width="452.21" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482.79" y="4810" width="452.21" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-16" value="北京边缘云节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.79" y="4643" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-18" value="制作区数量 5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="596.25" y="4620" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-19" value="制作区1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="583.79" y="4666" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-20" value="制作区2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="648.29" y="4666" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-21" value="制作区3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="708.66" y="4666" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-22" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="762.04" y="4666" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-28" value="杭州边缘云节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="491.59000000000003" y="4743" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-29" value="制作区数量 5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600.05" y="4720" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-30" value="制作区1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="587.5899999999999" y="4766" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-31" value="制作区2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="652.0899999999999" y="4766" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-32" value="制作区3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="712.4599999999999" y="4766" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-33" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="765.8399999999999" y="4766" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-34" value="上海边缘云节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="491.58000000000004" y="4843" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-35" value="制作区数量 5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600.04" y="4820" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-36" value="制作区1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="587.5799999999999" y="4866" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-37" value="制作区2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="652.0799999999999" y="4866" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-38" value="制作区3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="712.4499999999999" y="4866" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-39" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="765.8299999999999" y="4866" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-40" value="条目多了有滚动列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="618.04" y="4940" width="141.96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-41" value="制作区可能有一两个，也可能很多" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="790" y="4640" width="141.96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-42" value="CET中心云高清制作平台&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="472.71" y="4570" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6TqoMr2jhlx2vnppKLqE-43" value="唐总确认是否合适 @唐总" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="652.09" y="4565" width="141.96" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
