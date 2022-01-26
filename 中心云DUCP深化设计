@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T09:27:38.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="nE8zR-Uf0pn6V6pN_vSr" version="16.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-26T09:50:32.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Y1qVLM8nebbwroGjsZdB" version="16.2.7" type="github" pages="2">
   <diagram id="K_F0WPPoTWhIOQuU8uZl" name="Page-1">
-    <mxGraphModel dx="3151" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3842" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1798,7 +1798,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8Wg342b1RYVO4Yrre0tq-1" value="1. 边缘云节点信息&lt;br&gt;2. 制作区信息&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;3. 栏目信息（可能不是所有）&lt;br&gt;4. 自建用户信息&lt;/font&gt;&lt;br&gt;5. 租户用户关系信息&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;6.栏目用户关系信息&lt;/font&gt;&lt;br&gt;7.实例信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="680.5000724628098" y="4580.002727270102" as="geometry">
+          <mxGeometry x="1230.0000724628098" y="4600.002727270102" as="geometry">
             <mxPoint x="5" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1815,7 +1815,7 @@
           <mxGeometry x="-592" y="4670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5wrxslCHWqmaT49ZsFn4-10" value="1.新边缘云节点注册后配置工作&lt;br&gt;2. 新制作区注册后配置工作" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="4730" width="120" height="60" as="geometry" />
+          <mxGeometry x="1089.5" y="4750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Chzh8aD_ZkcVm5iriV3C-2" value="CET 中心注册数据&lt;br&gt;&lt;br&gt;边缘云节点大洋资源库：DYContentLibrary&lt;br&gt;边缘云节点索贝资源库：SoBContentLibrary&lt;br&gt;边缘云节点CET：EdgeCloudCET&lt;br&gt;&lt;br&gt;机构、租户（制作区）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;strokeColor=#000000;fillColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="665" y="5290" width="296" height="260" as="geometry" />
